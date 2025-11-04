@@ -36,7 +36,7 @@ add_action('admin_menu', 'hello_copilot_admin_menu');
  */
 function hello_copilot_admin_page() {
     ?>
-    <div class="wrap">
+    <div class="wrap hello-copilot-admin">
         <h1>Hello Copilot</h1>
         <div class="card">
             <h2>¡Bienvenido al Plugin Hello Copilot! 🎉</h2>
